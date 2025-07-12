@@ -10,6 +10,7 @@ Hướng dẫn trong file README
 
 ## Cài đặt để sử dụng
 - Về cơ sở dữ liệu sử dụng MySql WorkBench để tạo database và dữ liệu.
+- Project sử dụng jdk-24.
 - Để kết nối được với database thì trong file MyConnection sửa:
   
 
