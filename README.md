@@ -11,6 +11,7 @@ Hướng dẫn trong file README
 ## Cài đặt để sử dụng
 - Về cơ sở dữ liệu sử dụng MySql WorkBench để tạo database và dữ liệu.
 - Để kết nối được với database thì trong file MyConnection sửa:
+  
   public MyConnection() {
         host = "localhost";
         user = "root";
