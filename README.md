@@ -12,16 +12,13 @@ Hướng dẫn trong file README
 - Về cơ sở dữ liệu sử dụng MySql WorkBench để tạo database và dữ liệu.
 - Để kết nối được với database thì trong file MyConnection sửa:
   
+
   public MyConnection() {
   
         host = "localhost";
-  
         user = "root";
-  
         pass = "Your_pw";//>>>>>>>>>Thay dổi chỗ này thành mật khẩu SQL WorkBench của bạn<<<<<<<<<<
-  
         url = "jdbc:mysql://localhost:3306/luyentapjava?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
-  
     }
 
 - Trong file Login_View chỉnh lại đường dẫn ảnh để cho nó hiển thị logo ở màn hình Login.
