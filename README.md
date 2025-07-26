@@ -3,7 +3,7 @@ Hướng dẫn trong file README
 
 ## Chức năng chính
 - Quản lý sản phẩm
-- Quản ly kho
+- Quản lý kho
 - Nhập/Xuất kho
 - Phân quyền người dùng (admin, nhân viên)
 - Báo cáo tồn kho
